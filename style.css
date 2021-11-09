@@ -1,0 +1,48 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+}
+
+.container{
+  background-color: rgb(144, 153, 153);
+  width: 600px;
+  margin: 30px auto;
+  padding: 2rem;
+}
+
+.box{
+width: 100%;
+margin: 0.5rem 0;
+background: tomato;
+padding: 0.5rem;
+}
+
+.box label{
+ font-size: 20px;
+ padding: 5px 0;
+}
+
+.box input{
+  font-size: 20px;
+  padding: 5px;
+}
+
+.box .btn{
+
+  width: 100%;
+  background: rgb(12, 10, 104);
+  color: white;
+  padding: 0.5rem;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+table{
+  background: rgb(223, 216, 216);
+  width: 100%;
+  padding: .5rem ;
+}
